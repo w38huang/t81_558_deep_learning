@@ -123,3 +123,5 @@ bio_test.csv
 bio_train.csv
 SN_d_tot_V2.0.csv
 *.hdf5
+
+.idea
